@@ -1,0 +1,872 @@
+{
+  "_comment": "",
+  "access-control": {
+    "add-permission": {
+      "role-label": "",
+      "team-label": "",
+      "title": "",
+      "user-label": ""
+    },
+    "add-permissions": {
+      "save": ""
+    },
+    "permission-list": {
+      "permission": ""
+    },
+    "permissions": {
+      "add-label": "",
+      "no-permissions": "",
+      "permissions-change-warning": "",
+      "role": "",
+      "team": "",
+      "title": "",
+      "user": ""
+    }
+  },
+  "browse-dashboards": {
+    "action": {
+      "cancel-button": "",
+      "delete-button": "",
+      "delete-modal-text": "",
+      "delete-modal-title": "",
+      "deleting": "",
+      "manage-permissions-button": "",
+      "move-button": "",
+      "move-modal-alert": "",
+      "move-modal-field-label": "",
+      "move-modal-text": "",
+      "move-modal-title": "",
+      "moving": "",
+      "new-folder-name-required-phrase": ""
+    },
+    "counts": {
+      "alertRule__one": "",
+      "alertRule__other": "",
+      "dashboard__one": "",
+      "dashboard__other": "",
+      "folder__one": "",
+      "folder__other": "",
+      "libraryPanel__one": "",
+      "libraryPanel__other": "",
+      "total__one": "",
+      "total__other": ""
+    },
+    "dashboards-tree": {
+      "name-column": "",
+      "tags-column": ""
+    },
+    "folder-actions-button": {
+      "delete": "",
+      "folder-actions": "",
+      "manage-permissions": "",
+      "move": ""
+    },
+    "folder-picker": {
+      "accessible-label": "",
+      "button-label": "",
+      "empty-message": "",
+      "error-title": "",
+      "search-placeholder": "",
+      "unknown-error": ""
+    },
+    "manage-folder-nav": {
+      "alert-rules": "",
+      "dashboards": "",
+      "panels": "",
+      "permissions": "",
+      "settings": ""
+    },
+    "new-folder-form": {
+      "cancel-label": "",
+      "create-label": "",
+      "name-label": ""
+    },
+    "no-results": {
+      "clear": "",
+      "text": ""
+    }
+  },
+  "clipboard-button": {
+    "inline-toast": {
+      "success": ""
+    }
+  },
+  "command-palette": {
+    "action": {
+      "change-theme": "",
+      "dark-theme": "",
+      "light-theme": ""
+    },
+    "search-box": {
+      "placeholder": ""
+    },
+    "section": {
+      "actions": "",
+      "dashboard-search-results": "",
+      "folder-search-results": "",
+      "pages": "",
+      "preferences": "",
+      "recent-dashboards": ""
+    }
+  },
+  "common": {
+    "locale": {
+      "default": ""
+    },
+    "save": ""
+  },
+  "connections": {
+    "connect-data": {
+      "category-header-label": ""
+    },
+    "search": {
+      "placeholder": ""
+    }
+  },
+  "dashboard": {
+    "add-menu": {
+      "import": "",
+      "paste-panel": "",
+      "row": "",
+      "visualization": "",
+      "widget": ""
+    },
+    "empty": {
+      "add-import-body": "",
+      "add-import-button": "",
+      "add-import-header": "",
+      "add-row-body": "",
+      "add-row-button": "",
+      "add-row-header": "",
+      "add-visualization-body": "",
+      "add-visualization-button": "",
+      "add-visualization-header": "",
+      "add-widget-body": "",
+      "add-widget-button": "",
+      "add-widget-header": ""
+    },
+    "inspect": {
+      "data-tab": "",
+      "error-tab": "",
+      "json-tab": "",
+      "meta-tab": "",
+      "query-tab": "",
+      "stats-tab": "",
+      "subtitle": "",
+      "title": ""
+    },
+    "inspect-data": {
+      "data-options": "",
+      "dataframe-aria-label": "",
+      "dataframe-label": "",
+      "download-csv": "",
+      "download-excel-description": "",
+      "download-excel-label": "",
+      "download-logs": "",
+      "download-service": "",
+      "download-traces": "",
+      "excel-header": "",
+      "formatted": "",
+      "formatted-data-description": "",
+      "formatted-data-label": "",
+      "panel-transforms": "",
+      "series-to-columns": "",
+      "transformation": "",
+      "transformations-description": "",
+      "transformations-label": ""
+    },
+    "inspect-json": {
+      "dataframe-description": "",
+      "dataframe-label": "",
+      "panel-data-description": "",
+      "panel-data-label": "",
+      "panel-json-description": "",
+      "panel-json-label": "",
+      "select-source": "",
+      "unknown": ""
+    },
+    "inspect-meta": {
+      "no-inspector": ""
+    },
+    "inspect-stats": {
+      "data-title": "",
+      "data-traceids": "",
+      "processing-time": "",
+      "queries": "",
+      "request-time": "",
+      "rows": "",
+      "table-title": ""
+    },
+    "toolbar": {
+      "add": "",
+      "add-panel": "",
+      "mark-favorite": "",
+      "open-original": "",
+      "playlist-next": "",
+      "playlist-previous": "",
+      "playlist-stop": "",
+      "refresh": "",
+      "save": "",
+      "settings": "",
+      "share": "",
+      "unmark-favorite": ""
+    }
+  },
+  "data-sources": {
+    "datasource-add-button": {
+      "label": ""
+    }
+  },
+  "folder-picker": {
+    "loading": ""
+  },
+  "grafana-ui": {
+    "modal": {
+      "close-tooltip": ""
+    },
+    "segment-async": {
+      "error": "",
+      "loading": "",
+      "no-options": ""
+    },
+    "select": {
+      "no-options-label": "",
+      "placeholder": ""
+    }
+  },
+  "help-modal": {
+    "shortcuts-category": {
+      "dashboard": "",
+      "focused-panel": "",
+      "global": "",
+      "time-range": ""
+    },
+    "shortcuts-description": {
+      "change-theme": "",
+      "collapse-all-rows": "",
+      "dashboard-settings": "",
+      "duplicate-panel": "",
+      "exit-edit/setting-views": "",
+      "expand-all-rows": "",
+      "go-to-dashboards": "",
+      "go-to-explore": "",
+      "go-to-home-dashboard": "",
+      "go-to-profile": "",
+      "make-time-range-permanent": "",
+      "move-time-range-back": "",
+      "move-time-range-forward": "",
+      "open-search": "",
+      "open-shared-modal": "",
+      "refresh-all-panels": "",
+      "remove-panel": "",
+      "save-dashboard": "",
+      "show-all-shortcuts": "",
+      "toggle-active-mode": "",
+      "toggle-all-panel-legends": "",
+      "toggle-auto-fit": "",
+      "toggle-exemplars": "",
+      "toggle-graph-crosshair": "",
+      "toggle-kiosk": "",
+      "toggle-panel-edit": "",
+      "toggle-panel-fullscreen": "",
+      "toggle-panel-legend": "",
+      "zoom-out-time-range": ""
+    },
+    "title": ""
+  },
+  "library-panel": {
+    "add-modal": {
+      "cancel": "",
+      "create": "",
+      "error": "",
+      "folder": "",
+      "folder-description": "",
+      "name": ""
+    },
+    "add-widget": {
+      "title": ""
+    }
+  },
+  "library-panels": {
+    "save": {
+      "error": "",
+      "success": ""
+    }
+  },
+  "login": {
+    "error": {
+      "blocked": "",
+      "invalid-user-or-password": "",
+      "title": "",
+      "unknown": ""
+    }
+  },
+  "nav": {
+    "add-new-connections": {
+      "title": ""
+    },
+    "admin": {
+      "subtitle": "",
+      "title": ""
+    },
+    "alerting": {
+      "subtitle": "",
+      "title": ""
+    },
+    "alerting-admin": {
+      "title": ""
+    },
+    "alerting-am-routes": {
+      "subtitle": "",
+      "title": ""
+    },
+    "alerting-channels": {
+      "title": ""
+    },
+    "alerting-groups": {
+      "subtitle": "",
+      "title": ""
+    },
+    "alerting-home": {
+      "title": ""
+    },
+    "alerting-legacy": {
+      "title": ""
+    },
+    "alerting-list": {
+      "subtitle": "",
+      "title": ""
+    },
+    "alerting-receivers": {
+      "subtitle": "",
+      "title": ""
+    },
+    "alerting-silences": {
+      "subtitle": "",
+      "title": ""
+    },
+    "alerts-and-incidents": {
+      "subtitle": "",
+      "title": ""
+    },
+    "api-keys": {
+      "subtitle": "",
+      "title": ""
+    },
+    "application": {
+      "title": ""
+    },
+    "apps": {
+      "subtitle": "",
+      "title": ""
+    },
+    "authentication": {
+      "title": ""
+    },
+    "config": {
+      "title": ""
+    },
+    "connect-data": {
+      "title": ""
+    },
+    "connections": {
+      "subtitle": "",
+      "title": ""
+    },
+    "correlations": {
+      "subtitle": "",
+      "title": ""
+    },
+    "create": {
+      "title": ""
+    },
+    "create-alert": {
+      "title": ""
+    },
+    "create-dashboard": {
+      "title": ""
+    },
+    "create-folder": {
+      "title": ""
+    },
+    "create-import": {
+      "title": ""
+    },
+    "dashboards": {
+      "subtitle": "",
+      "title": ""
+    },
+    "data-sources": {
+      "subtitle": "",
+      "title": ""
+    },
+    "datasources": {
+      "subtitle": "",
+      "title": ""
+    },
+    "detect": {
+      "title": ""
+    },
+    "explore": {
+      "title": ""
+    },
+    "frontend": {
+      "title": ""
+    },
+    "global-orgs": {
+      "subtitle": "",
+      "title": ""
+    },
+    "global-users": {
+      "subtitle": "",
+      "title": ""
+    },
+    "grafana-quaderno": {
+      "title": ""
+    },
+    "help": {
+      "title": ""
+    },
+    "help/community": "",
+    "help/documentation": "",
+    "help/keyboard-shortcuts": "",
+    "help/support": "",
+    "home": {
+      "title": ""
+    },
+    "incidents": {
+      "title": ""
+    },
+    "infrastructure": {
+      "title": ""
+    },
+    "kubernetes": {
+      "title": ""
+    },
+    "library-panels": {
+      "subtitle": "",
+      "title": ""
+    },
+    "machine-learning": {
+      "title": ""
+    },
+    "manage-folder": {
+      "subtitle": ""
+    },
+    "monitoring": {
+      "subtitle": "",
+      "title": ""
+    },
+    "new": {
+      "title": ""
+    },
+    "new-dashboard": {
+      "title": ""
+    },
+    "new-folder": {
+      "title": ""
+    },
+    "observability": {
+      "title": ""
+    },
+    "oncall": {
+      "title": ""
+    },
+    "org-settings": {
+      "subtitle": "",
+      "title": ""
+    },
+    "performance-testing": {
+      "title": ""
+    },
+    "playlists": {
+      "subtitle": "",
+      "title": ""
+    },
+    "plugins": {
+      "subtitle": "",
+      "title": ""
+    },
+    "profile/notifications": {
+      "title": ""
+    },
+    "profile/password": {
+      "title": ""
+    },
+    "profile/settings": {
+      "title": ""
+    },
+    "profiles": {
+      "title": ""
+    },
+    "public": {
+      "title": ""
+    },
+    "recorded-queries": {
+      "title": ""
+    },
+    "reporting": {
+      "title": ""
+    },
+    "scenes": {
+      "title": ""
+    },
+    "search": {
+      "placeholderCommandPalette": ""
+    },
+    "search-dashboards": {
+      "title": ""
+    },
+    "server-settings": {
+      "subtitle": "",
+      "title": ""
+    },
+    "service-accounts": {
+      "subtitle": "",
+      "title": ""
+    },
+    "sign-out": {
+      "title": ""
+    },
+    "slo": {
+      "title": ""
+    },
+    "snapshots": {
+      "subtitle": "",
+      "title": ""
+    },
+    "starred": {
+      "title": ""
+    },
+    "starred-empty": {
+      "title": ""
+    },
+    "statistics-and-licensing": {
+      "title": ""
+    },
+    "storage": {
+      "subtitle": "",
+      "title": ""
+    },
+    "support-bundles": {
+      "subtitle": "",
+      "title": ""
+    },
+    "synthetics": {
+      "title": ""
+    },
+    "teams": {
+      "subtitle": "",
+      "title": ""
+    },
+    "upgrading": {
+      "title": ""
+    },
+    "users": {
+      "subtitle": "",
+      "title": ""
+    }
+  },
+  "navigation": {
+    "kiosk": {
+      "tv-alert": ""
+    },
+    "toolbar": {
+      "enable-kiosk": "",
+      "toggle-menu": "",
+      "toggle-search-bar": ""
+    }
+  },
+  "news": {
+    "title": ""
+  },
+  "notifications": {
+    "starred-dashboard": "",
+    "unstarred-dashboard": ""
+  },
+  "panel": {
+    "header-menu": {
+      "copy": "",
+      "create-library-panel": "",
+      "duplicate": "",
+      "edit": "",
+      "explore": "",
+      "get-help": "",
+      "hide-legend": "",
+      "inspect": "",
+      "inspect-data": "",
+      "inspect-json": "",
+      "more": "",
+      "query": "",
+      "remove": "",
+      "share": "",
+      "show-legend": "",
+      "unlink-library-panel": "",
+      "view": ""
+    }
+  },
+  "refresh-picker": {
+    "aria-label": {
+      "choose-interval": "",
+      "duration-selected": ""
+    },
+    "auto-option": {
+      "aria-label": "",
+      "label": ""
+    },
+    "live-option": {
+      "aria-label": "",
+      "label": ""
+    },
+    "off-option": {
+      "aria-label": "",
+      "label": ""
+    },
+    "select-button": {
+      "auto-refresh": ""
+    }
+  },
+  "search": {
+    "actions": {
+      "include-panels": "",
+      "remove-datasource-filter": "",
+      "sort-placeholder": "",
+      "starred": "",
+      "view-as-folders": "",
+      "view-as-list": ""
+    },
+    "dashboard-actions": {
+      "import": "",
+      "new": "",
+      "new-dashboard": "",
+      "new-folder": ""
+    },
+    "folder-view": {
+      "go-to-folder": "",
+      "select-folder": ""
+    },
+    "result-kind": {
+      "dashboard": "",
+      "folder": "",
+      "panel": ""
+    },
+    "results-table": {
+      "datasource-header": "",
+      "location-header": "",
+      "name-header": "",
+      "tags-header": "",
+      "type-dashboard": "",
+      "type-folder": "",
+      "type-header": ""
+    },
+    "search-input": {
+      "include-panels-placeholder": "",
+      "placeholder": ""
+    }
+  },
+  "search-view": {
+    "no-results": {
+      "clear": "",
+      "text": ""
+    }
+  },
+  "share-modal": {
+    "dashboard": {
+      "title": ""
+    },
+    "embed": {
+      "copy": "",
+      "html": "",
+      "html-description": "",
+      "info": "",
+      "time-range": "",
+      "time-range-description": ""
+    },
+    "export": {
+      "cancel-button": "",
+      "info-text": "",
+      "save-button": "",
+      "share-default-label": "",
+      "share-externally-label": "",
+      "view-button": ""
+    },
+    "library": {
+      "info": ""
+    },
+    "link": {
+      "copy-link-button": "",
+      "info-text": "",
+      "link-url": "",
+      "render-alert": "",
+      "render-instructions": "",
+      "rendered-image": "",
+      "save-alert": "",
+      "save-dashboard": "",
+      "shorten-url": "",
+      "time-range-description": "",
+      "time-range-label": ""
+    },
+    "panel": {
+      "title": ""
+    },
+    "snapshot": {
+      "cancel-button": "",
+      "copy-link-button": "",
+      "delete-button": "",
+      "deleted-message": "",
+      "expire": "",
+      "expire-day": "",
+      "expire-hour": "",
+      "expire-never": "",
+      "expire-week": "",
+      "info-text-1": "",
+      "info-text-2": "",
+      "local-button": "",
+      "mistake-message": "",
+      "name": "",
+      "timeout": "",
+      "timeout-description": "",
+      "url-label": ""
+    },
+    "tab-title": {
+      "embed": "",
+      "export": "",
+      "library-panel": "",
+      "link": "",
+      "snapshot": ""
+    },
+    "theme-picker": {
+      "current": "",
+      "dark": "",
+      "field-name": "",
+      "light": ""
+    },
+    "view-json": {
+      "copy-button": ""
+    }
+  },
+  "shared": {
+    "preferences": {
+      "theme": {
+        "dark-label": "",
+        "light-label": "",
+        "system-label": ""
+      }
+    }
+  },
+  "shared-dashboard": {
+    "fields": {
+      "timezone-label": ""
+    }
+  },
+  "shared-preferences": {
+    "fields": {
+      "home-dashboard-label": "",
+      "home-dashboard-placeholder": "",
+      "locale-label": "",
+      "locale-placeholder": "",
+      "theme-label": "",
+      "week-start-label": ""
+    },
+    "theme": {
+      "default-label": ""
+    },
+    "title": ""
+  },
+  "tag-filter": {
+    "loading": "",
+    "no-tags": "",
+    "placeholder": ""
+  },
+  "time-picker": {
+    "absolute": {
+      "recent-title": "الفترات الزمنية المطلقة المستخدمة مؤخرًا",
+      "title": "الفترة الزمنية المطلقة"
+    },
+    "calendar": {
+      "apply-button": "تطبيق الفترة الزمنية",
+      "cancel-button": "إلغاء",
+      "select-time": "اختر الفترة الزمنية"
+    },
+    "content": {
+      "empty-recent-list": "<0><0>يبدو أنك لم تستخدم هذا المُحدد الزمني من قبل. بمجرد إدخال بعض الفترات الزمنية، ستظهر الفترات المستخدمة مؤخرًا هنا.</0></0><1><0>اقرأ الوثائق</0><1> لمعرفة المزيد عن كيفية إدخال فترات زمنية مُخصصة.</1></1>",
+      "filter-placeholder": "ابحث عن فترات زمنية سريعة"
+    },
+    "footer": {
+      "change-settings-button": "تغيير إعدادات الوقت",
+      "fiscal-year-option": "السنة المالية",
+      "fiscal-year-start": "بداية السنة المالية",
+      "time-zone-option": "المنطقة الزمنية",
+      "time-zone-selection": "اختيار المنطقة الزمنية"
+    },
+    "range-content": {
+      "apply-button": "تطبيق الفترة الزمنية",
+      "default-error": "يرجى إدخال تاريخ سابق أو \"الآن\"",
+      "fiscal-year": "السنة المالية",
+      "from-input": "من",
+      "range-error": "\"من\" لا يمكن أن يكون بعد \"إلى\"",
+      "to-input": "إلى"
+    },
+    "range-picker": {
+      "backwards-time-aria-label": "نقل الفترة الزمنية إلى الخلف",
+      "current-time-selected": "الفترة الزمنية المحددة: {{currentTimeRange}}",
+      "forwards-time-aria-label": "نقل الفترة الزمنية إلى الأمام",
+      "to": "إلى",
+      "zoom-out-button": "تصغير الفترة الزمنية",
+      "zoom-out-tooltip": "<تصغير الفترة الزمنية <1></1 CTRL+Z"
+    },
+    "time-range": {
+      "aria-role": "اختيار الفترة الزمنية",
+      "default-title": "الفترات الزمنية",
+      "example-title": "أمثلة على الفترات الزمنية",
+      "specify":"<حدد الفترة الزمنية <1></1>"
+    },
+    "zone": {
+      "select-aria-label": "مُحدد المنطقة الزمنية",
+      "select-search-input": "اكتب للبحث (بلد، مدينة، اختصار)"
+    }
+  },
+  "user-orgs": {
+    "current-org-button": "",
+    "name-column": "",
+    "role-column": "",
+    "select-org-button": "",
+    "title": ""
+  },
+  "user-profile": {
+    "fields": {
+      "email-error": "",
+      "email-label": "",
+      "name-error": "",
+      "name-label": "",
+      "username-label": ""
+    }
+  },
+  "user-session": {
+    "browser-column": "",
+    "created-at-column": "",
+    "ip-column": "",
+    "revoke": "",
+    "seen-at-column": ""
+  },
+  "user-sessions": {
+    "loading": ""
+  },
+  "variable": {
+    "adhoc": {
+      "placeholder": ""
+    },
+    "dropdown": {
+      "placeholder": ""
+    },
+    "picker": {
+      "link-all": "",
+      "option-all": "",
+      "option-selected-values": "",
+      "option-tooltip": ""
+    },
+    "textbox": {
+      "placeholder": ""
+    }
+  }
+}
